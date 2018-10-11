@@ -1,0 +1,17 @@
+#id:0;
+#name:Subhajit;
+#Roll:18MA60R33;
+#Address:MMM Hall,RR424;
+~
+#id:1;
+#name:Arnab;
+#Roll:18MA60R22;
+#Address:MMM Hall,RR119;
+~
+#id:5;
+#name:Amartya;
+#Roll:18MA60R29;
+#Address:MMM Hall,RR118;
+~
+
+
